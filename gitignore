@@ -1,0 +1,6 @@
+node_modules/
+.env
+data/
+tecnicos.json
+templates/*.docx
+*.log
