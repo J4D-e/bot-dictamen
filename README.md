@@ -63,7 +63,7 @@ Telegram ──► oficio (PDF/DOCX/foto)
 Requiere Node.js 20 o superior, un bot de Telegram (token de [@BotFather](https://t.me/BotFather)) y una API key de [Google AI Studio](https://aistudio.google.com/).
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/J4D-e/bot-dictamen
 cd dictamen-bot
 npm install
 cp .env.example .env
